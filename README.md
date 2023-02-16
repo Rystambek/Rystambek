@@ -10,7 +10,7 @@
   <img src="https://profile-counter.glitch.me/rustambek2003/count.svg" />
 </p>
 
-# [Jumaqulov Rustambek!](rustambekjumaqulov@gmail.com) ## Social networks
+# [Jumaqulov Rustambek!](rustambekjumaqulov@gmail.com) Social networks
 
 <a href="https://github.com/Rustambek2003"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/rystambek_7l7"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
