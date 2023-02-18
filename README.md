@@ -3,7 +3,7 @@
 
 ![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=rystambek&show_icons=true&theme=tokyonight)
 
-[![CodeWars](https://www.codewars.com/users/Rystambek/badges/large)]([https://www.codewars.com/users/rustambek2003(https://www.codewars.com/users/rustambek2003))
+[![CodeWars](https://www.codewars.com/users/Rustambek2003/badges/large)]([https://www.codewars.com/users/rustambek2003(https://www.codewars.com/users/rustambek2003))
 
 <p align="center"> 
   Visitor count<br>
