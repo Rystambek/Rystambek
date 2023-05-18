@@ -24,9 +24,9 @@
 
 <a href=#><img src="snike.svg"></a>
 
-<!-- ## Language and TOOLS
+## Language and TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,sass,vscode)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,sass,vscode)](https://skillicons.dev)
 
 
 ## About Me
