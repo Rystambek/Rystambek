@@ -16,7 +16,7 @@
 <a href="https://instagram.com/rystambek_7l7"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/musulmon17"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/Rustambek2003/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="[[https://www.sololearn.com/profile/27804078](https://www.sololearn.com/certificates/CC-FGEDM9QZ)]"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+<a href="https://www.sololearn.com/profile/27804078](https://www.sololearn.com/certificates/CC-FGEDM9QZ"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
 <!-- <a href="https://gitlab.com/quvvatullayev/"><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a></a> -->
 
 
